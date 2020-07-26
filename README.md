@@ -9,7 +9,7 @@ For finger > 3 means play and pause.
 
 For finger == 3 means Volume down, and finger > 3 means Volume Up.
 ----------------
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/imvickykumar999/Video-Controler-using-Finger-Counter/blob/master/Volume-Manager.mp4)
+[![Watch the video](https://github.com/imvickykumar999/Video-Controler-using-Finger-Counter/blob/master/volume.jpg)](https://github.com/imvickykumar999/Video-Controler-using-Finger-Counter/blob/master/Volume-Manager.mp4)
 
 Full Video on LinkedIn : https://www.linkedin.com/posts/vicky-kumar-433542190_opencv-pythonprogramming-activity-6692696911234777088-5fs8
 -------------------------------
